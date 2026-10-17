@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="module" src="../common.mjs"></script>
+    <script type="module" src="../src/web.mjs"></script>
+    <title>Project Days Calendar</title>
+</head>
+
+<body>
+
+    <main>
+
+        <header class="page-header">
+            <h1>Days Calendar</h1>
+        </header>
+
+        <section>
+
+            <div>
+                <label for="calendar-dropdown">Jump to a month</label>
+                <select id="calendar-dropdown">
+                    <option selected disabled>Choose a month</option>
+                </select>
+            </div>
+
+            <div class="calendar">
+
+                <div class="calendar-header">
+                    <button class="prev-month"></button>
+                    <div id="month-year"></div>
+                    <button class="next-month"></button>
+                </div>
+
+                <div class="calendar-body">
+                    <div class="calendar-weekdays">
+                        <!-- Name of the weekdays -->
+                    </div>
+                    <div class="calendar-dates">
+                        <!-- Dates to be popullated here -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+    </main>
+
+</body>
+
+</html>
