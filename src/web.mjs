@@ -1,6 +1,6 @@
 
 import { getWeekDaysNames } from "../common.mjs";
-import daysData from "../days.json" with { type: "json" };
+import daysData from "../public/days.json" with { type: "json" };
 
 const calendarWeekdays = document.querySelector(".calendar-weekdays");
 const monthYear = document.getElementById("month-year");
