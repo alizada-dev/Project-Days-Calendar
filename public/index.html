@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script type="module" src="../common.mjs"></script>
     <script type="module" src="../src/web.mjs"></script>
+    <link rel="stylesheet" href="styles.css">
     <title>Project Days Calendar</title>
 </head>
 
@@ -19,19 +19,31 @@
 
         <section>
 
-            <div>
-                <label for="calendar-dropdown">Jump to a month</label>
-                <select id="calendar-dropdown">
-                    <option selected disabled>Choose a month</option>
-                </select>
-            </div>
+            <form class="jump-to-date">
+
+                <div>
+                    <label for="month-dropdown">Month</label>
+                    <select id="month-dropdown" required>
+                        <option value="" selected disabled>Choose a month</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label for="year-dropdown">Year</label>
+                    <select id="year-dropdown" required>
+                        <option value="" selected disabled>Choose a year</option>
+                    </select>
+                </div>
+
+                <button type="submit" class="submitBtn">Go</button>
+            </form>
 
             <div class="calendar">
 
                 <div class="calendar-header">
-                    <button class="prev-month"></button>
-                    <div id="month-year"></div>
-                    <button class="next-month"></button>
+                    <button class="prev-month">Previous</button>
+                    <h2 id="month-year"></h2>
+                    <button class="next-month">Next</button>
                 </div>
 
                 <div class="calendar-body">
