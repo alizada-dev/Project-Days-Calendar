@@ -24,9 +24,9 @@ function loadWeekDays() {
     const weekDays = getWeekDaysNames();
 
     weekDays.forEach(weekDay => {
-        const x = document.createElement("div");
-        x.textContent = weekDay;
-        calendarWeekdays.appendChild(x);
+        const day = document.createElement("div");
+        day.textContent = weekDay;
+        calendarWeekdays.appendChild(day);
     })
 }
 
@@ -40,6 +40,8 @@ function loadMonths() {
         option.innerHTML = months[i];
         monthDropdown.appendChild(option);
     }
+
+    monthDropdown.value = currentMonth;
 }
 
 // Populating Years Dropdown
@@ -52,6 +54,8 @@ function loadYears() {
         option.innerHTML = i;
         yearDropdown.appendChild(option);
     }
+
+    yearDropdown.value = currentYear;
 }
 
 // Submitting the form
@@ -61,9 +65,12 @@ form.addEventListener("submit", (e) => {
         return;
     }
 
-    renderCalendar(monthDropdown.value, yearDropdown.value);
-    currentMonth = monthDropdown.value;
-    currentYear = yearDropdown.value;
+    const month = Number(monthDropdown.value);
+    const year = Number(yearDropdown.value);
+
+    renderCalendar(month, year);
+    currentMonth = month;
+    currentYear = year;
 })
 
 
@@ -83,11 +90,26 @@ function renderCalendar(month, year) {
         calendarDates.appendChild(blank);
     }
 
+    const today = new Date();
+
+    // Populate the days
     for (let i = 1; i <= daysInMonth; i++) {
         const day = document.createElement("div");
         day.textContent = i;
+
+        // Highlighting today's date
+        if (i === today.getDate() && month === today.getMonth() && year === today.getFullYear()) {
+            day.classList.add('current-date');
+        }
+
         calendarDates.appendChild(day);
     }
+}
+
+function updateCalendar() {
+    renderCalendar(currentMonth, currentYear);
+    monthDropdown.value = currentMonth;
+    yearDropdown.value = currentYear;
 }
 
 
@@ -98,7 +120,7 @@ prevMonthButton.addEventListener("click", () => {
         currentYear--;
     }
 
-    renderCalendar(currentMonth, currentYear);
+    updateCalendar();
 })
 
 nextMonthButton.addEventListener("click", () => {
@@ -108,15 +130,15 @@ nextMonthButton.addEventListener("click", () => {
         currentYear++;
     }
 
-    renderCalendar(currentMonth, currentYear);
+    updateCalendar();
 })
 
 
 
 window.onload = function () {
     // document.querySelector("body").innerText = `${getGreeting()} - there are ${daysData.length} known days`;
-    renderCalendar(currentMonth, currentYear);
     loadWeekDays();
     loadMonths();
     loadYears();
+    renderCalendar(currentMonth, currentYear);
 }

@@ -5,7 +5,7 @@
 // }
 
 export function getWeekDaysNames() {
-    return ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+    return ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 }
 
 export function getMonthNames() {

@@ -18,7 +18,8 @@ main {
 }
 
 .prev-month,
-.next-month {
+.next-month,
+.submitBtn {
     cursor: pointer;
 }
 
@@ -34,7 +35,8 @@ main {
 }
 
 .calendar-weekdays {
-    background-color: lightgreen;
+    background-color: green;
+    color: #fff;
 }
 
 .calendar-weekdays div {
@@ -44,4 +46,8 @@ main {
 .calendar-dates div {
     border-bottom: 1px solid rgb(234, 233, 233);
     border-left: 1px solid rgb(234, 233, 233);
+}
+
+.current-date {
+    background-color: lightgreen;
 }
