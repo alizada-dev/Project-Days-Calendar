@@ -51,3 +51,9 @@ main {
 .current-date {
     background-color: lightgreen;
 }
+
+.commemorative-date {
+    background-color: grey;
+    font-weight: bold;
+    color: #fff;
+}
