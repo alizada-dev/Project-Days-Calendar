@@ -16,7 +16,7 @@ const OUTPUT_FILE = path.join(process.cwd(), "days.ics");
 
 function calculateCommemorativeDate(year, month, dayName, occurrence) {
   const occurrences = ["first", "second", "third"];
-  const targetOccurrence = occurrences.indexOf(occurrence);
+  const targetOccurrence = occurrences.indexOf(occurrence) + 1;
 
   const weekdays = getWeekDaysNames();
   const targetWeekDay = weekdays.indexOf(dayName);
@@ -31,7 +31,7 @@ function calculateCommemorativeDate(year, month, dayName, occurrence) {
       }
     }
   } else {
-    let count = -1;
+    let count = 0;
     for (let i = 1; i <= daysInMonth; i++) {
       const weekday = new Date(year, month, i).getDay();
       if (weekday === targetWeekDay) {
@@ -46,9 +46,9 @@ function calculateCommemorativeDate(year, month, dayName, occurrence) {
 
 
 function formatDateToICS(date) {
-  const year = date.getUTCFullYear();
-  const month = String(date.getUTCMonth() + 1).padStart(2, "0");
-  const day = String(date.getUTCDate()).padStart(2, "0");
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, "0");
+  const day = String(date.getDate()).padStart(2, "0");
   return `${year}${month}${day}`;
 }
 
