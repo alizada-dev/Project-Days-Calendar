@@ -1,0 +1,334 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Days Calendar//EN
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20201012
+SUMMARY:Ada Lovelace Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20200508
+SUMMARY:International Binturong Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20200904
+SUMMARY:International Vulture Awareness Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20200918
+SUMMARY:International Red Panda Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20201030
+SUMMARY:World Lemur Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20211011
+SUMMARY:Ada Lovelace Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20210507
+SUMMARY:International Binturong Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20210903
+SUMMARY:International Vulture Awareness Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20210917
+SUMMARY:International Red Panda Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20211028
+SUMMARY:World Lemur Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20221010
+SUMMARY:Ada Lovelace Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20220513
+SUMMARY:International Binturong Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20220902
+SUMMARY:International Vulture Awareness Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20220916
+SUMMARY:International Red Panda Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20221027
+SUMMARY:World Lemur Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20231009
+SUMMARY:Ada Lovelace Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20230512
+SUMMARY:International Binturong Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20230901
+SUMMARY:International Vulture Awareness Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20230915
+SUMMARY:International Red Panda Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20231026
+SUMMARY:World Lemur Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20241007
+SUMMARY:Ada Lovelace Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20240510
+SUMMARY:International Binturong Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20240906
+SUMMARY:International Vulture Awareness Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20240920
+SUMMARY:International Red Panda Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20241024
+SUMMARY:World Lemur Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20251013
+SUMMARY:Ada Lovelace Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20250509
+SUMMARY:International Binturong Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20250905
+SUMMARY:International Vulture Awareness Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20250919
+SUMMARY:International Red Panda Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20251031
+SUMMARY:World Lemur Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20261012
+SUMMARY:Ada Lovelace Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20260508
+SUMMARY:International Binturong Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20260904
+SUMMARY:International Vulture Awareness Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20260918
+SUMMARY:International Red Panda Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20261030
+SUMMARY:World Lemur Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20271011
+SUMMARY:Ada Lovelace Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20270507
+SUMMARY:International Binturong Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20270903
+SUMMARY:International Vulture Awareness Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20270917
+SUMMARY:International Red Panda Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20271028
+SUMMARY:World Lemur Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20281009
+SUMMARY:Ada Lovelace Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20280512
+SUMMARY:International Binturong Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20280901
+SUMMARY:International Vulture Awareness Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20280915
+SUMMARY:International Red Panda Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20281026
+SUMMARY:World Lemur Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20291008
+SUMMARY:Ada Lovelace Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20290511
+SUMMARY:International Binturong Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20290831
+SUMMARY:International Vulture Awareness Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20290914
+SUMMARY:International Red Panda Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20291025
+SUMMARY:World Lemur Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20301007
+SUMMARY:Ada Lovelace Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20300510
+SUMMARY:International Binturong Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20300906
+SUMMARY:International Vulture Awareness Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20300920
+SUMMARY:International Red Panda Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20301024
+SUMMARY:World Lemur Day
+DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
+END:VEVENT
+END:VCALENDAR
