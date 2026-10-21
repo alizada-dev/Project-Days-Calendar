@@ -3,25 +3,41 @@ VERSION:2.0
 PRODID:-//Days Calendar//EN
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20201013
+=======
+DTSTART;VALUE=DATE:20201012
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:Ada Lovelace Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20200509
+=======
+DTSTART;VALUE=DATE:20200508
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Binturong Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20200905
+=======
+DTSTART;VALUE=DATE:20200904
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Vulture Awareness Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20200919
+=======
+DTSTART;VALUE=DATE:20200918
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Red Panda Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
 END:VEVENT
@@ -33,175 +49,291 @@ DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20200503
+=======
+DTSTART;VALUE=DATE:20200502
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY: International Dawn Chorus Day
 DESCRIPTION:undefined
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20211012
+=======
+DTSTART;VALUE=DATE:20211011
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:Ada Lovelace Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20210508
+=======
+DTSTART;VALUE=DATE:20210507
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Binturong Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20210904
+=======
+DTSTART;VALUE=DATE:20210903
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Vulture Awareness Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20210918
+=======
+DTSTART;VALUE=DATE:20210917
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Red Panda Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20211029
+=======
+DTSTART;VALUE=DATE:20211028
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:World Lemur Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20210502
+=======
+DTSTART;VALUE=DATE:20210501
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY: International Dawn Chorus Day
 DESCRIPTION:undefined
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20221011
+=======
+DTSTART;VALUE=DATE:20221010
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:Ada Lovelace Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20220514
+=======
+DTSTART;VALUE=DATE:20220513
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Binturong Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20220903
+=======
+DTSTART;VALUE=DATE:20220902
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Vulture Awareness Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20220917
+=======
+DTSTART;VALUE=DATE:20220916
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Red Panda Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20221028
+=======
+DTSTART;VALUE=DATE:20221027
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:World Lemur Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20220501
+=======
+DTSTART;VALUE=DATE:20220430
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY: International Dawn Chorus Day
 DESCRIPTION:undefined
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20231010
+=======
+DTSTART;VALUE=DATE:20231009
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:Ada Lovelace Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20230513
+=======
+DTSTART;VALUE=DATE:20230512
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Binturong Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20230902
+=======
+DTSTART;VALUE=DATE:20230901
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Vulture Awareness Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20230916
+=======
+DTSTART;VALUE=DATE:20230915
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Red Panda Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20231027
+=======
+DTSTART;VALUE=DATE:20231026
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:World Lemur Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20230507
+=======
+DTSTART;VALUE=DATE:20230506
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY: International Dawn Chorus Day
 DESCRIPTION:undefined
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20241008
+=======
+DTSTART;VALUE=DATE:20241007
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:Ada Lovelace Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20240511
+=======
+DTSTART;VALUE=DATE:20240510
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Binturong Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20240907
+=======
+DTSTART;VALUE=DATE:20240906
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Vulture Awareness Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20240921
+=======
+DTSTART;VALUE=DATE:20240920
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Red Panda Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20241025
+=======
+DTSTART;VALUE=DATE:20241024
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:World Lemur Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20240505
+=======
+DTSTART;VALUE=DATE:20240504
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY: International Dawn Chorus Day
 DESCRIPTION:undefined
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20251014
+=======
+DTSTART;VALUE=DATE:20251013
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:Ada Lovelace Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20250510
+=======
+DTSTART;VALUE=DATE:20250509
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Binturong Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20250906
+=======
+DTSTART;VALUE=DATE:20250905
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Vulture Awareness Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20250920
+=======
+DTSTART;VALUE=DATE:20250919
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Red Panda Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
 END:VEVENT
@@ -213,31 +345,51 @@ DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20250504
+=======
+DTSTART;VALUE=DATE:20250503
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY: International Dawn Chorus Day
 DESCRIPTION:undefined
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20261013
+=======
+DTSTART;VALUE=DATE:20261012
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:Ada Lovelace Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20260509
+=======
+DTSTART;VALUE=DATE:20260508
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Binturong Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20260905
+=======
+DTSTART;VALUE=DATE:20260904
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Vulture Awareness Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20260919
+=======
+DTSTART;VALUE=DATE:20260918
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Red Panda Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
 END:VEVENT
@@ -249,151 +401,251 @@ DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20260503
+=======
+DTSTART;VALUE=DATE:20260502
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY: International Dawn Chorus Day
 DESCRIPTION:undefined
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20271012
+=======
+DTSTART;VALUE=DATE:20271011
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:Ada Lovelace Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20270508
+=======
+DTSTART;VALUE=DATE:20270507
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Binturong Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20270904
+=======
+DTSTART;VALUE=DATE:20270903
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Vulture Awareness Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20270918
+=======
+DTSTART;VALUE=DATE:20270917
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Red Panda Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20271029
+=======
+DTSTART;VALUE=DATE:20271028
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:World Lemur Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20270502
+=======
+DTSTART;VALUE=DATE:20270501
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY: International Dawn Chorus Day
 DESCRIPTION:undefined
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20281010
+=======
+DTSTART;VALUE=DATE:20281009
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:Ada Lovelace Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20280513
+=======
+DTSTART;VALUE=DATE:20280512
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Binturong Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20280902
+=======
+DTSTART;VALUE=DATE:20280901
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Vulture Awareness Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20280916
+=======
+DTSTART;VALUE=DATE:20280915
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Red Panda Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20281027
+=======
+DTSTART;VALUE=DATE:20281026
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:World Lemur Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20280507
+=======
+DTSTART;VALUE=DATE:20280506
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY: International Dawn Chorus Day
 DESCRIPTION:undefined
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20291009
+=======
+DTSTART;VALUE=DATE:20291008
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:Ada Lovelace Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20290512
+=======
+DTSTART;VALUE=DATE:20290511
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Binturong Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20290901
+=======
+DTSTART;VALUE=DATE:20290831
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Vulture Awareness Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20290915
+=======
+DTSTART;VALUE=DATE:20290914
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Red Panda Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20291026
+=======
+DTSTART;VALUE=DATE:20291025
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:World Lemur Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20290506
+=======
+DTSTART;VALUE=DATE:20290505
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY: International Dawn Chorus Day
 DESCRIPTION:undefined
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20301008
+=======
+DTSTART;VALUE=DATE:20301007
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:Ada Lovelace Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/ada.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20300511
+=======
+DTSTART;VALUE=DATE:20300510
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Binturong Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/binturongs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20300907
+=======
+DTSTART;VALUE=DATE:20300906
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Vulture Awareness Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/vultures.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20300921
+=======
+DTSTART;VALUE=DATE:20300920
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:International Red Panda Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/red-pandas.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20301025
+=======
+DTSTART;VALUE=DATE:20301024
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY:World Lemur Day
 DESCRIPTION:https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T000000Z
+<<<<<<< HEAD
 DTSTART;VALUE=DATE:20300505
+=======
+DTSTART;VALUE=DATE:20300504
+>>>>>>> fccba627e94fe93a7569e23aae1da8cab19587a8
 SUMMARY: International Dawn Chorus Day
 DESCRIPTION:undefined
 END:VEVENT
