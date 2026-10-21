@@ -33,5 +33,11 @@
         "dayName": "Friday",
         "occurrence": "last",
         "descriptionURL": "https://codeyourfuture.github.io/Checkpoint/days/lemurs.txt"
+    },
+    {
+        "name": " International Dawn Chorus Day",
+        "monthName": "May",
+        "dayName": "Sunday",
+        "occurrence": "first"
     }
 ]

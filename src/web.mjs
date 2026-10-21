@@ -73,57 +73,11 @@ form.addEventListener("submit", (e) => {
     currentYear = year;
 })
 
-
-function renderCalendar(month, year) {
-
-    const months = getMonthNames();
-    const commemorativeDays = daysData;
-
-    calendarDates.innerHTML = "";
-    monthYear.textContent = `${months[month]} ${year}`;
-
-    const firstDay = new Date(year, month, 1).getDay();
-
-    const daysInMonth = new Date(year, month + 1, 0).getDate();
-
-    for (let i = 0; i < firstDay; i++) {
-        const blank = document.createElement("div");
-        calendarDates.appendChild(blank);
-    }
-
-    const today = new Date();
-
-    // Populate the days
-    for (let i = 1; i <= daysInMonth; i++) {
-        const day = document.createElement("div");
-        day.textContent = i;
-
-        // Looping through daysData
-        commemorativeDays.forEach(commemorativeDay => {
-            if (commemorativeDay.monthName == months[month]) {
-                const specialDay = calculateCommemorativeDate(year, month, commemorativeDay.dayName, commemorativeDay.occurrence);
-
-                if (i === specialDay) {
-                    day.classList.add('commemorative-date');
-                }
-            }
-        })
-
-
-        // Highlighting today's date
-        if (i === today.getDate() && month === today.getMonth() && year === today.getFullYear()) {
-            day.classList.add('current-date');
-        }
-
-        calendarDates.appendChild(day);
-    }
-}
-
-
+// Calculating commemorative dates
 function calculateCommemorativeDate(year, month, day, occurrence) {
 
     const occurrences = ["first", "second", "third"];
-    const targetOccurrence = occurrences.indexOf(occurrence);
+    const targetOccurrence = occurrences.indexOf(occurrence) + 1;
 
     const weekdays = getWeekDaysNames();
     const targetWeekDay = weekdays.indexOf(day);
@@ -131,7 +85,7 @@ function calculateCommemorativeDate(year, month, day, occurrence) {
     const daysInMonth = new Date(year, month + 1, 0).getDate();
 
     // Number of times the target weekday is encountered
-    let count = -1;
+    let count = 0;
     if (occurrence === "last") {
         for (let j = daysInMonth; j >= 1; j--) {
             // 31, 30, 29, 28, ..., 3, 2, 1
@@ -156,9 +110,65 @@ function calculateCommemorativeDate(year, month, day, occurrence) {
     }
 }
 
+// Main function
+function renderCalendar(month, year) {
 
-// console.log(calculateCommemorativeDate(2026, 9, "Tuesday", "last"));
+    const months = getMonthNames();
 
+    calendarDates.innerHTML = "";
+    monthYear.textContent = `${months[month]} ${year}`;
+
+    const firstDay = new Date(year, month, 1).getDay();
+
+    const daysInMonth = new Date(year, month + 1, 0).getDate();
+
+    for (let i = 0; i < firstDay; i++) {
+        const blank = document.createElement("div");
+        calendarDates.appendChild(blank);
+    }
+
+    const today = new Date();
+
+    // Looping through daysData
+    const commemorativeDates = [];
+    daysData.forEach(commemorativeDay => {
+        if (commemorativeDay.monthName === months[month]) {
+            const specialDay = calculateCommemorativeDate(
+                year,
+                month,
+                commemorativeDay.dayName,
+                commemorativeDay.occurrence
+            )
+            commemorativeDates.push({
+                day: specialDay,
+                name: commemorativeDay.name
+            });
+        }
+    })
+
+    // Populate the days
+    for (let i = 1; i <= daysInMonth; i++) {
+        const day = document.createElement("div");
+        day.textContent = i;
+
+        const commemorativeDay = commemorativeDates.find(x => x.day === i);
+
+        if (commemorativeDay) {
+            const commemorativeDayName = document.createElement("span");
+            commemorativeDayName.textContent = ` - ${commemorativeDay.name}`;
+            day.append(commemorativeDayName);
+
+            day.classList.add('commemorative-date');
+        }
+
+        // Highlighting today's date
+        if (i === today.getDate() && month === today.getMonth() && year === today.getFullYear()) {
+            day.classList.add('current-date');
+        }
+
+        calendarDates.appendChild(day);
+    }
+}
 
 
 function updateCalendar() {
@@ -191,7 +201,6 @@ nextMonthButton.addEventListener("click", () => {
 
 
 window.onload = function () {
-    // document.querySelector("body").innerText = `${getGreeting()} - there are ${daysData.length} known days`;
     loadWeekDays();
     loadMonths();
     loadYears();
