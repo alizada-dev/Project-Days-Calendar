@@ -1,7 +1,7 @@
 
 import { getMonthNames, getWeekDaysNames, getYearRange } from "./common.mjs";
 import daysData from "./days.json" with { type: "json" };
-import {calculateCommemorativeDate} from "./calculateCommemorativeDate.mjs";
+import { calculateCommemorativeDate } from "./calculateCommemorativeDate.mjs";
 
 // Defining Variables
 const calendarDates = document.querySelector(".calendar-dates");
@@ -83,8 +83,10 @@ function renderCalendar(month, year) {
     calendarDates.innerHTML = "";
     monthYear.textContent = `${months[month]} ${year}`;
 
+    // getDay() returns the day of the week 
     const firstDay = new Date(year, month, 1).getDay();
 
+    // getDate() returns the day of the month
     const daysInMonth = new Date(year, month + 1, 0).getDate();
 
     for (let i = 0; i < firstDay; i++) {
